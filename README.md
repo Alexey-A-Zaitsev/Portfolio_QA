@@ -6,26 +6,27 @@
 Меня всегда интересовала сфера IT, и не так давно я твёрдо решил сменить профессию, чтобы заниматься тем, что мне интересно, получать удовольствие от работы и приносить пользу людям.  
 Я быстро учусь, стараюсь не останавливаться на достигнутом, стремлюсь к получению новых знаний и навыков.
 
-В настоящее время я прохожу обучение в ["ООО Нетология"](https://netology.ru/) по пограмме ["Инженер по тестированию: с нуля до middle"](https://netology.ru/programs/qa-middle) и уже получил сертификаты об обучении по следующим модулям:
+В настоящее время я прохожу обучение в [Нетологии](https://netology.ru/) по пограмме ["Инженер по тестированию: с нуля до middle"](https://netology.ru/programs/qa-middle) и уже получил сертификаты об обучении по следующим модулям:
 * [Ручное тестирование веб-приложений](data/Manual%20testing%20certificate.pdf), по которой успешно сдан курсновой проект(ссылка на репозиторий с заданием и ссылками на гуглдокс);
 * [Git — система контроля версий](data/GIT%20certificate.pdf), в рамках которого получил навыки работы с командной строкй, GIT Bash, а также GitHub, включая создание Issues и Pull requests;
-* [Java для тестировщиков](data/Java%20certificate.pdf);
-* [Автоматизированное тестирование](data/Automated%20testing%20certificate.pdf).
+* [Java для тестировщиков](data/Java%20certificate.pdf), освоив основы языка Java;
+* [Автоматизированное тестирование](data/Automated%20testing%20certificate.pdf), изучив тестирование веб-интерфейсов с применением инструментов: Selenium и Selenide;
+* [JavaScript для тестировщиков](data/JavaScript%20certificate.pdf).
 
-Сейчас я заканчиваю изучение модуля "Автоматизированное тестирование" и перехожу к "JavaScript для тестировщиков".
 
 Так как я только учусь новой для себя профессии, реальных проектов, подтверждающих мои знания и умения, у меня нет.
 Поэтому предлагаю ознакомиться с моими решениями учебных заданий.
 
 ## Ручное тестирование веб-приложений
 
- [Задания курсового проекта к модулю «Ручное тестирование веб-приложений»](https://github.com/netology-code/iqa-diplom/blob/main/README.md)
+ [Задания курсового проекта к модулю «Ручное тестирование веб-приложений»](Manual_testing.md)
  * Составление [чек-листа](https://docs.google.com/spreadsheets/d/1sRCRPhDzVEm02fiHFJuZSPrBVsxFlk40SeHr2Xj7CEg/edit#gid=946475606);
  * Написание [тест-кейсов](https://docs.google.com/spreadsheets/d/18yU_uTFBRa-BrMa937tcK2uGPb-iIVuo6VoHjBns_5U/edit#gid=1187853437);
  * [Тестирование требований](https://docs.google.com/document/d/1-G2UCShClrP5A49xLSlx5bJpaE5ly-Gqcex83imxq0A/edit);
  * Баг-репорты:  
     [Пример 1](https://docs.google.com/spreadsheets/d/1fVF-EfQKofSlPEWOm5YTeFwVNA_zHAdwjOOhmlJWoug/edit#gid=372290302)  
     [Пример 2](https://docs.google.com/spreadsheets/d/1RH3r0rKdRUcNemDcEMm2BiGOoQBTHK_D0RR0p3xRRqA/edit#gid=0)
+* [План автоматизации тестирования](https://github.com/Alexey-A-Zaitsev/AQA_4.2_Test_Automation_Plan)
 
 
 
