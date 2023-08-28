@@ -27,9 +27,8 @@
     [Пример 1](https://docs.google.com/spreadsheets/d/1fVF-EfQKofSlPEWOm5YTeFwVNA_zHAdwjOOhmlJWoug/edit#gid=372290302)  
     [Пример 2](https://docs.google.com/spreadsheets/d/1RH3r0rKdRUcNemDcEMm2BiGOoQBTHK_D0RR0p3xRRqA/edit#gid=0)
 ## Автоматизированное тестирование (Java)
-* [План автоматизации тестирования](https://github.com/Alexey-A-Zaitsev/AQA_4.2_Test_Automation_Plan)
 
-
+* [Курсовой проект по автоматизации тестирования веб-сервиса, взаимодействующего с СУБД и API банка](https://github.com/Alexey-A-Zaitsev/Aqa_qamid_course_project/tree/main)
 
  
 > ### Мои контакты
